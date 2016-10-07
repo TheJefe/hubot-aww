@@ -1,7 +1,7 @@
 {
   "name": "hubot-aww",
   "description": "A hubot script that fetches images from reddit.com/r/aww",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Jeff Koenig <(none)>",
   "license": "MIT",
 
