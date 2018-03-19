@@ -1,7 +1,7 @@
 {
   "name": "hubot-aww",
   "description": "A hubot script that fetches images from reddit.com/r/aww",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jeff Koenig <(none)>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-aww.git"
+    "url": "git://github.com/thejefe/hubot-aww.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-aww/issues"
+    "url": "https://github.com/thejefe/hubot-aww/issues"
   },
 
   "dependencies": {
